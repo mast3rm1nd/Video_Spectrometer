@@ -1,0 +1,38 @@
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\AForge.Video.FFMPEG.xml
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\VideoFileFramesPicture.csprojResolveAssemblyReference.cache
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\MainWindow.g.cs
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\App.g.cs
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\MainWindow.baml
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\VideoFileFramesPicture.Properties.Resources.resources
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\VideoFileFramesPicture.csproj.GenerateResource.Cache
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\AForge.dll
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\AForge.Video.dll
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\AForge.Video.dll
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\AForge.dll
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\VideoFileFramesPicture.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\VideoFileFramesPicture.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\VideoFileFramesPicture.csproj.GenerateResource.Cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\WPFToolkit.dll
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\Video Spectrometer.exe.config
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\Video Spectrometer.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\Video Spectrometer.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer.pdb
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\Video Spectrometer.exe.config
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer.exe
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer.pdb
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\Video Spectrometer.exe
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\Video Spectrometer.pdb
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\WPFToolkit.dll
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer_MarkupCompile.cache
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer_MarkupCompile.lref
+F:\Dropbox\!Coding\All_in_one\VideoFileFramesPicture\VideoFileFramesPicture\obj\Debug\Video Spectrometer.g.resources
