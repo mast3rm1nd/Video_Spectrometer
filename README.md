@@ -1,0 +1,1 @@
+This program creates "color spectrum" of videofile. It gets average color of each frame and draws vertical sequences of pixels of that color. Sequence lenght may be specified by user.
