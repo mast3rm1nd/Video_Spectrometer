@@ -76,7 +76,7 @@ namespace VideoFileFramesPicture
 
             var optimalSize = GetOptimalWidthAndHeighFromPixelsCount((int)framesCount * pixelsPerFrame);
 
-            Bitmap bmp = new Bitmap(optimalSize.Width, optimalSize.Height);
+            Bitmap spectrumImage = new Bitmap(optimalSize.Width, optimalSize.Height);            
 
             
             
@@ -89,9 +89,9 @@ namespace VideoFileFramesPicture
             Bitmap videoFrame;
 
 
-            for(var currX = 0; currX < bmp.Width; currX++)
+            for(var currX = 0; currX < spectrumImage.Width; currX++)
             {
-                for (var currY = 0; currY < bmp.Height; currY++)
+                for (var currY = 0; currY < spectrumImage.Height; currY++)
                 {
                     if (currPixel % pixelsPerFrame == 0)
                         if (currFrame <= framesCount)
@@ -123,16 +123,24 @@ namespace VideoFileFramesPicture
                         else
                             meanColor = System.Drawing.Color.Black;
 
-                    bmp.SetPixel(currX, currY, meanColor);
+                    spectrumImage.SetPixel(currX, currY, meanColor);
                     currPixel = (currPixel + 1) % pixelsPerFrame;
                 }
             }
 
-            var resultingImageFilename = AppDomain.CurrentDomain.BaseDirectory + System.IO.Path.GetFileNameWithoutExtension(videoFilePath) + $"_{pixelsPerFrame}ppf.bmp";
+            #region SavingResultingImage
+            var imageFormat = ImageFormat.Png;
 
-            bmp.Save(resultingImageFilename);
+            var fileExtension = ".png";
 
-            MessageBox.Show($"Сохранено в \"{System.IO.Path.GetFileNameWithoutExtension(videoFilePath) + ".bmp\""}", "Готово!", MessageBoxButton.OK, MessageBoxImage.Information);
+            var resultingImageName = System.IO.Path.GetFileNameWithoutExtension(videoFilePath) + $"_{pixelsPerFrame}ppf" + fileExtension;
+            var resultingImagePath = AppDomain.CurrentDomain.BaseDirectory + resultingImageName;
+            
+            spectrumImage.Save(resultingImagePath, imageFormat);
+            #endregion
+
+
+            MessageBox.Show($"Сохранено в \"{resultingImageName}\"", "Готово!", MessageBoxButton.OK, MessageBoxImage.Information);
 
             //}
             reader.Close();
